@@ -3,7 +3,7 @@ import { FaXTwitter } from "react-icons/fa6";
 
 const ContactData = {
   phone: "",
-  email: "mt.s7714iphone@gmail.com",
+  email: "pioneerai89297@gmail.com",
   address: "Rod. Raposo Tavares , Sao Paulo , Brazil",
   links: [
     {
@@ -19,7 +19,7 @@ const ContactData = {
       icon: FaDiscord,
     },
     {
-      url: "https://tgt.me/alpha_0213",
+      url: "https://tgt.me/comet0707",
       icon: FaTelegram,
     }
     // {
