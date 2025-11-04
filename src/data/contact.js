@@ -4,14 +4,14 @@ import { FaXTwitter } from "react-icons/fa6";
 const ContactData = {
   phone: "",
   email: "pioneerai89297@gmail.com",
-  address: "Rod. Raposo Tavares , Sao Paulo , Brazil",
+  address: "Rua esperanca, Viamao, Brazil",
   links: [
     {
-      url: "https://github.com/matheus-silveira7714",
+      url: "https://github.com/pioai777",
       icon: FaGithub,
     },
     // {
-    //   url: "https://www.linkedin.com/in/vijay-talakola",
+    //   url: "https://www.linkedin.com/in/",
     //   icon: FaLinkedin,
     // },
     {

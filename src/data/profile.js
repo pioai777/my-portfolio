@@ -1,7 +1,7 @@
 const ProfileData = {
   img: require("../assets/Images/hero.png"),
   logo: require("../assets/Images/Name.png"),
-  name: "Matheus Silveira",
+  name: "Peterson Santos",
   professions: ["Full Stack Developer", "CMS Expert", "Enthusiastic Dev"],
   info: [
     "Knack of building web applications using MERN stack and CMS platforms.",
