@@ -1,5 +1,5 @@
 git filter-branch --env-filter '
-CORRECT_NAME="matheus-silveira7714"
+CORRECT_NAME="pioai777"
 CORRECT_EMAIL="pioneerai89297@gmail.com"
 
 export GIT_AUTHOR_NAME="$CORRECT_NAME"
